@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.ffb37bc1.js",
+    "main.js": "/static/js/main.18d89cca.js",
     "static/media/carcare.gif": "/static/media/carcare.7ac9f2c1a9f9913ba45e.gif",
     "static/media/pos.gif": "/static/media/pos.8c3dd3a5c2d64790f47e.gif",
     "static/media/kcmail.gif": "/static/media/kcmail.000a298f437b12d8e7a7.gif",
@@ -50,10 +50,10 @@
     "static/media/gitlab.png": "/static/media/gitlab.277472b971c0cac98307.png",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.ffb37bc1.js.map": "/static/js/main.ffb37bc1.js.map"
+    "main.18d89cca.js.map": "/static/js/main.18d89cca.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.ffb37bc1.js"
+    "static/js/main.18d89cca.js"
   ]
 }
