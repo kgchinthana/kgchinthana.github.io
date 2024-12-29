@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.0133d3c0.js",
+    "main.js": "/static/js/main.a6bb5e55.js",
     "static/media/zara.gif": "/static/media/zara.77fe7e1310d16e1d2938.gif",
     "static/media/criceye.gif": "/static/media/criceye.a7099cc2070f5703a0d0.gif",
     "static/media/carcare.gif": "/static/media/carcare.7ac9f2c1a9f9913ba45e.gif",
@@ -14,10 +14,10 @@
     "static/media/traffic_accident_anticipation.gif": "/static/media/traffic_accident_anticipation.d77c08b8b1c699570e35.gif",
     "static/media/rpal.gif": "/static/media/rpal.0f8c23b1213dc1e10125.gif",
     "static/media/postgresql.png": "/static/media/postgresql.8e21292302cf72d88da0.png",
-    "static/media/file.webp": "/static/media/file.d22bd61d23028de80f37.webp",
     "static/media/profile.webp": "/static/media/profile.668d609248f479ea7426.webp",
     "static/media/javascript.png": "/static/media/javascript.b2892245069e14b2be7e.png",
     "static/media/bsc_engineering.png": "/static/media/bsc_engineering.4ac81fce801bfb7352f0.png",
+    "static/media/file.webp": "/static/media/file.95ee0cec59e5afa20ce9.webp",
     "static/media/mongodb.png": "/static/media/mongodb.e42d28391597ae82e2ca.png",
     "static/media/html.png": "/static/media/html.f08f7501a638838b0664.png",
     "static/media/node.png": "/static/media/node.730fe784c3b00fbdc8bd.png",
@@ -53,10 +53,10 @@
     "static/media/gitlab.png": "/static/media/gitlab.277472b971c0cac98307.png",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.0133d3c0.js.map": "/static/js/main.0133d3c0.js.map"
+    "main.a6bb5e55.js.map": "/static/js/main.a6bb5e55.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.0133d3c0.js"
+    "static/js/main.a6bb5e55.js"
   ]
 }
