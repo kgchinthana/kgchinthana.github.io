@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.41820b19.js",
+    "main.js": "/static/js/main.ee1a8a5a.js",
     "static/media/zara.gif": "/static/media/zara.77fe7e1310d16e1d2938.gif",
     "static/media/criceye.gif": "/static/media/criceye.a7099cc2070f5703a0d0.gif",
     "static/media/carcare.gif": "/static/media/carcare.7ac9f2c1a9f9913ba45e.gif",
@@ -18,6 +18,7 @@
     "static/media/file.webp": "/static/media/file.95ee0cec59e5afa20ce9.webp",
     "static/media/mongodb.png": "/static/media/mongodb.e42d28391597ae82e2ca.png",
     "static/media/html.png": "/static/media/html.f08f7501a638838b0664.png",
+    "static/media/zara-logo.png": "/static/media/zara-logo.8f9edce6f57df0695811.png",
     "static/media/node.png": "/static/media/node.730fe784c3b00fbdc8bd.png",
     "static/media/angular.png": "/static/media/angular.2f42961b84f322b78446.png",
     "static/media/typescript.png": "/static/media/typescript.659e4b9351cf1baa6930.png",
@@ -31,6 +32,7 @@
     "static/media/flutter.png": "/static/media/flutter.43fe4e9cb9ca625976bd.png",
     "static/media/next.png": "/static/media/next.37ce8fc7b8f8dd2ce994.png",
     "static/media/machine_learning.png": "/static/media/machine_learning.af522e3af3353b1c01b5.png",
+    "static/media/robot-assistant.png": "/static/media/robot-assistant.4cf423c791fe2dbfebf2.png",
     "static/media/photography.png": "/static/media/photography.a9cfb6d3d1521c0ec418.png",
     "static/media/sivali_central.png": "/static/media/sivali_central.97722d142d72e12be0ea.png",
     "static/media/teamwork.png": "/static/media/teamwork.76b856fb0813871dc675.png",
@@ -51,10 +53,10 @@
     "static/media/gitlab.png": "/static/media/gitlab.277472b971c0cac98307.png",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.41820b19.js.map": "/static/js/main.41820b19.js.map"
+    "main.ee1a8a5a.js.map": "/static/js/main.ee1a8a5a.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.41820b19.js"
+    "static/js/main.ee1a8a5a.js"
   ]
 }
