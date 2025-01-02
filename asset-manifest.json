@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.ee1a8a5a.js",
+    "main.js": "/static/js/main.0d9d4df1.js",
     "static/media/zara.gif": "/static/media/zara.77fe7e1310d16e1d2938.gif",
     "static/media/criceye.gif": "/static/media/criceye.a7099cc2070f5703a0d0.gif",
     "static/media/carcare.gif": "/static/media/carcare.7ac9f2c1a9f9913ba45e.gif",
@@ -38,6 +38,7 @@
     "static/media/teamwork.png": "/static/media/teamwork.76b856fb0813871dc675.png",
     "static/media/explore_tech.png": "/static/media/explore_tech.9e12b4cf90d8d0c62108.png",
     "static/media/programming.png": "/static/media/programming.c3c26d5d44b693b58765.png",
+    "static/media/gce_ol.png": "/static/media/gce_ol.24a4d641fa34f22b35c2.png",
     "static/media/gce_al.png": "/static/media/gce_al.386fe7da3eb2a2be8d55.png",
     "static/media/web_dev.png": "/static/media/web_dev.ad02d63870968fd4d1e7.png",
     "static/media/github.png": "/static/media/github.7c8f7736007664c4b0ba.png",
@@ -53,10 +54,10 @@
     "static/media/gitlab.png": "/static/media/gitlab.277472b971c0cac98307.png",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.ee1a8a5a.js.map": "/static/js/main.ee1a8a5a.js.map"
+    "main.0d9d4df1.js.map": "/static/js/main.0d9d4df1.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.ee1a8a5a.js"
+    "static/js/main.0d9d4df1.js"
   ]
 }
