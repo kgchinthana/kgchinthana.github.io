@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.3253f93e.js",
+    "main.js": "/static/js/main.4c134a15.js",
     "static/media/zara.gif": "/static/media/zara.77fe7e1310d16e1d2938.gif",
     "static/media/criceye.gif": "/static/media/criceye.a7099cc2070f5703a0d0.gif",
     "static/media/carcare.gif": "/static/media/carcare.7ac9f2c1a9f9913ba45e.gif",
@@ -10,9 +10,9 @@
     "static/media/sandalwood_cottage.gif": "/static/media/sandalwood_cottage.fb67829eaa5322f40cd9.gif",
     "static/media/heartdisease.gif": "/static/media/heartdisease.2b73624e9ccc6ed18eb0.gif",
     "static/media/cg_logo.png": "/static/media/cg_logo.434899cfb83968a4df4f.png",
+    "static/media/profile.webp": "/static/media/profile.ae4d26a473ea9942a577.webp",
     "static/media/traffic_accident_anticipation.gif": "/static/media/traffic_accident_anticipation.d77c08b8b1c699570e35.gif",
     "static/media/postgresql.png": "/static/media/postgresql.8e21292302cf72d88da0.png",
-    "static/media/profile.webp": "/static/media/profile.668d609248f479ea7426.webp",
     "static/media/javascript.png": "/static/media/javascript.b2892245069e14b2be7e.png",
     "static/media/bsc_engineering.png": "/static/media/bsc_engineering.4ac81fce801bfb7352f0.png",
     "static/media/file.webp": "/static/media/file.95ee0cec59e5afa20ce9.webp",
@@ -54,10 +54,10 @@
     "static/media/gitlab.png": "/static/media/gitlab.277472b971c0cac98307.png",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.3253f93e.js.map": "/static/js/main.3253f93e.js.map"
+    "main.4c134a15.js.map": "/static/js/main.4c134a15.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.3253f93e.js"
+    "static/js/main.4c134a15.js"
   ]
 }
