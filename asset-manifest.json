@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cec77d5.css",
-    "main.js": "/static/js/main.91365ce2.js",
+    "main.js": "/static/js/main.d9648958.js",
     "static/media/zara.gif": "/static/media/zara.6e409627a76bbbd02cde.gif",
     "static/media/traffic_accident_anticipation.gif": "/static/media/traffic_accident_anticipation.50fd51c25529b8b486bb.gif",
     "static/media/criceye.gif": "/static/media/criceye.aa4eb5d8d4bfd7dc3a0a.gif",
@@ -52,14 +52,15 @@
     "static/media/logo.webp": "/static/media/logo.bc95a026d6b21d438151.webp",
     "static/media/english.webp": "/static/media/english.7d3ce3bff98182f02c17.webp",
     "static/media/sinhala.webp": "/static/media/sinhala.7d3ce3bff98182f02c17.webp",
+    "static/media/cse.webp": "/static/media/cse.b0f40e22e10c649f8e70.webp",
     "static/media/figma.webp": "/static/media/figma.be11ae5fdc8b42016d3b.webp",
     "static/media/cpp.webp": "/static/media/cpp.e556a4324501fb47eebe.webp",
     "index.html": "/index.html",
     "main.2cec77d5.css.map": "/static/css/main.2cec77d5.css.map",
-    "main.91365ce2.js.map": "/static/js/main.91365ce2.js.map"
+    "main.d9648958.js.map": "/static/js/main.d9648958.js.map"
   },
   "entrypoints": [
     "static/css/main.2cec77d5.css",
-    "static/js/main.91365ce2.js"
+    "static/js/main.d9648958.js"
   ]
 }
